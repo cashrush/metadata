@@ -1,0 +1,17 @@
+{
+  "tokenId": 85,
+  "name": "CashRush Card #85",
+  "description": "CashRush Card #85",
+  "image": "https://cashrush.gg/images/1.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "LEGENDARY"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "AL CAPONE"
+    }
+  ]
+}

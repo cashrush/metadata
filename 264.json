@@ -1,0 +1,17 @@
+{
+  "tokenId": 264,
+  "name": "CashRush Card #264",
+  "description": "CashRush Card #264",
+  "image": "https://cashrush.gg/images/12.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "PAUL CASTELLANO"
+    }
+  ]
+}

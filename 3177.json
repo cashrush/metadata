@@ -1,0 +1,17 @@
+{
+  "tokenId": 3177,
+  "name": "CashRush Card #3177",
+  "description": "CashRush Card #3177",
+  "image": "https://cashrush.gg/images/13.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "SAM GIANCANA"
+    }
+  ]
+}

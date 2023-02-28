@@ -1,0 +1,17 @@
+{
+  "tokenId": 732,
+  "name": "CashRush Card #732",
+  "description": "CashRush Card #732",
+  "image": "https://cashrush.gg/images/4.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "RARE"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "VIRGINIA HILL"
+    }
+  ]
+}

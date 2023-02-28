@@ -1,0 +1,17 @@
+{
+  "tokenId": 2122,
+  "name": "CashRush Card #2122",
+  "description": "CashRush Card #2122",
+  "image": "https://cashrush.gg/images/8.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "VITO GENOVESE"
+    }
+  ]
+}

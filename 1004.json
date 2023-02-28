@@ -1,0 +1,17 @@
+{
+  "tokenId": 1004,
+  "name": "CashRush Card #1004",
+  "description": "CashRush Card #1004",
+  "image": "https://cashrush.gg/images/10.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "BUGSY SIEGEL"
+    }
+  ]
+}

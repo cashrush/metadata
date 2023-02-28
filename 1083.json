@@ -1,0 +1,17 @@
+{
+  "tokenId": 1083,
+  "name": "CashRush Card #1083",
+  "description": "CashRush Card #1083",
+  "image": "https://cashrush.gg/images/5.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "RARE"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "LUCKY LUCIANO"
+    }
+  ]
+}

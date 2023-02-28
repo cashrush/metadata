@@ -1,0 +1,17 @@
+{
+  "tokenId": 791,
+  "name": "CashRush Card #791",
+  "description": "CashRush Card #791",
+  "image": "https://cashrush.gg/images/7.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "VITO RIZUTTO"
+    }
+  ]
+}

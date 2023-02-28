@@ -1,0 +1,17 @@
+{
+  "tokenId": 2461,
+  "name": "CashRush Card #2461",
+  "description": "CashRush Card #2461",
+  "image": "https://cashrush.gg/images/11.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "JOE MASSERIA"
+    }
+  ]
+}

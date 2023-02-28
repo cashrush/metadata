@@ -1,0 +1,17 @@
+{
+  "tokenId": 1375,
+  "name": "CashRush Card #1375",
+  "description": "CashRush Card #1375",
+  "image": "https://cashrush.gg/images/3.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "RARE"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "FRANK COSTELLO"
+    }
+  ]
+}

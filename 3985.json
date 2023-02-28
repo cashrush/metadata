@@ -1,0 +1,17 @@
+{
+  "tokenId": 3985,
+  "name": "CashRush Card #3985",
+  "description": "CashRush Card #3985",
+  "image": "https://cashrush.gg/images/9.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "CARLO GAMBINO"
+    }
+  ]
+}

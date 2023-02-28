@@ -1,0 +1,17 @@
+{
+  "tokenId": 252,
+  "name": "CashRush Card #252",
+  "description": "CashRush Card #252",
+  "image": "https://cashrush.gg/images/14.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "ALBERT ANASTASIA"
+    }
+  ]
+}

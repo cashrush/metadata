@@ -1,0 +1,17 @@
+{
+  "tokenId": 3991,
+  "name": "CashRush Card #3991",
+  "description": "CashRush Card #3991",
+  "image": "https://cashrush.gg/images/1.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "LEGENDARY"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "AL CAPONE"
+    }
+  ]
+}

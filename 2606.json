@@ -1,0 +1,17 @@
+{
+  "tokenId": 2606,
+  "name": "CashRush Card #2606",
+  "description": "CashRush Card #2606",
+  "image": "https://cashrush.gg/images/2.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "LEGENDARY"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "JOHN GOTTI"
+    }
+  ]
+}

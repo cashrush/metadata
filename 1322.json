@@ -1,0 +1,17 @@
+{
+  "tokenId": 1322,
+  "name": "CashRush Card #1322",
+  "description": "CashRush Card #1322",
+  "image": "https://cashrush.gg/images/6.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "SONNY FRANZESE"
+    }
+  ]
+}

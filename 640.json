@@ -1,0 +1,17 @@
+{
+  "tokenId": 640,
+  "name": "CashRush Card #640",
+  "description": "CashRush Card #640",
+  "image": "https://cashrush.gg/images/10.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "BUGSY SIEGEL"
+    }
+  ]
+}

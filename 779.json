@@ -1,0 +1,17 @@
+{
+  "tokenId": 779,
+  "name": "CashRush Card #779",
+  "description": "CashRush Card #779",
+  "image": "https://cashrush.gg/images/9.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "COMMON"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "CARLO GAMBINO"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tokenId": 842,
+  "name": "CashRush Card #842",
+  "description": "CashRush Card #842",
+  "image": "https://cashrush.gg/images/2.jpg",
+  "external_url": "https://cashrush.gg/",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "LEGENDARY"
+    },
+    {
+      "trait_type": "NAME",
+      "value": "JOHN GOTTI"
+    }
+  ]
+}
