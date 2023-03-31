@@ -2,17 +2,17 @@
   "tokenId": 1472,
   "name": "CASH RUSH Card #1472",
   "description": "CASH RUSH Card #1472",
-  "image": "https://cashrush.gg/images/2.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "LEGENDARY"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "JOHN GOTTI"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 2
+  "card": 0
 }

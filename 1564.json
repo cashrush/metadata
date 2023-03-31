@@ -2,17 +2,17 @@
   "tokenId": 1564,
   "name": "CASH RUSH Card #1564",
   "description": "CASH RUSH Card #1564",
-  "image": "https://cashrush.gg/images/10.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "BUGSY SIEGEL"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 10
+  "card": 0
 }

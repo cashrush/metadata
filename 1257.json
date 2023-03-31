@@ -2,17 +2,17 @@
   "tokenId": 1257,
   "name": "CASH RUSH Card #1257",
   "description": "CASH RUSH Card #1257",
-  "image": "https://cashrush.gg/images/11.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "JOE MASSERIA"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 11
+  "card": 0
 }

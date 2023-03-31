@@ -2,17 +2,17 @@
   "tokenId": 1869,
   "name": "CASH RUSH Card #1869",
   "description": "CASH RUSH Card #1869",
-  "image": "https://cashrush.gg/images/7.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "VITO RIZUTTO"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 7
+  "card": 0
 }

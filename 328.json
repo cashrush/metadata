@@ -2,17 +2,17 @@
   "tokenId": 328,
   "name": "CASH RUSH Card #328",
   "description": "CASH RUSH Card #328",
-  "image": "https://cashrush.gg/images/6.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "SONNY FRANZESE"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 6
+  "card": 0
 }

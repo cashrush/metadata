@@ -2,17 +2,17 @@
   "tokenId": 3192,
   "name": "CASH RUSH Card #3192",
   "description": "CASH RUSH Card #3192",
-  "image": "https://cashrush.gg/images/14.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "ALBERT ANASTASIA"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 14
+  "card": 0
 }

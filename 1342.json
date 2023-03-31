@@ -2,17 +2,17 @@
   "tokenId": 1342,
   "name": "CASH RUSH Card #1342",
   "description": "CASH RUSH Card #1342",
-  "image": "https://cashrush.gg/images/12.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "PAUL CASTELLANO"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 12
+  "card": 0
 }

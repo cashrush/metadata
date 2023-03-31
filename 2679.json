@@ -2,17 +2,17 @@
   "tokenId": 2679,
   "name": "CASH RUSH Card #2679",
   "description": "CASH RUSH Card #2679",
-  "image": "https://cashrush.gg/images/5.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "RARE"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "LUCKY LUCIANO"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 5
+  "card": 0
 }

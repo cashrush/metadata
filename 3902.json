@@ -2,17 +2,17 @@
   "tokenId": 3902,
   "name": "CASH RUSH Card #3902",
   "description": "CASH RUSH Card #3902",
-  "image": "https://cashrush.gg/images/10.jpg",
+  "image": "https://cashrush.gg/images/0.jpg",
   "external_url": "https://cashrush.gg/",
   "attributes": [
     {
       "trait_type": "RARITY",
-      "value": "COMMON"
+      "value": "NONE"
     },
     {
       "trait_type": "NAME",
-      "value": "BUGSY SIEGEL"
+      "value": "UNREVEALED"
     }
   ],
-  "card": 10
+  "card": 0
 }
